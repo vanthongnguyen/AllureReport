@@ -1,0 +1,5 @@
+✅ Name 1 = NVThong test
+✅ Business Email = emailtest@yopmail.com
+❌ Field: Checkbox Test | UI: Checked | Excel: Unchecked; Checked
+✅ Sales Organization = TNG
+✅ Account Currency = USD - U.S. Dollar
