@@ -1,3 +1,0 @@
-❌ Extra Labels:
-   - Section: System Information
-     ➤ Extra: [SAP Account Number]
