@@ -1,0 +1,4 @@
+❌ Missing fields in UI:
+  - Grouping
+  - Search Term 1
+  - Search Term 2
