@@ -1,0 +1,2 @@
+❌ Label 'Customer Group': API mismatch → Expect = Customer_Group__c test | UI = [Customer_Group__c]
+❌ Label 'Credit Valid To': Kiểu dữ liệu sai → Expect = Date test | UI = Date
