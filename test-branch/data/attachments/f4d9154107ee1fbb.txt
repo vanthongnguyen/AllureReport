@@ -1,0 +1,18 @@
+❌ Label 'Name 1' không tìm thấy trên UI (API: Name_1__c)
+❌ Label 'Sales Manager' không tìm thấy trên UI (API: Sales_Manager__c)
+❌ Label 'Head Office' không tìm thấy trên UI (API: Head_Office__c)
+❌ Label 'Grouping' không tìm thấy trên UI (API: Grouping__c)
+❌ Label 'Search Term 1' không tìm thấy trên UI (API: Search_Term_1__c)
+❌ Label 'Search Term 2' không tìm thấy trên UI (API: Search_Term_2__c)
+❌ Label 'Tax Code' không tìm thấy trên UI (API: Tax_Code__c)
+❌ Label 'Payment Terms' không tìm thấy trên UI (API: Payment_Terms__c)
+❌ Label 'Sales Organization' không tìm thấy trên UI (API: Sales_Organization__c)
+❌ Label 'Distribution Channel' không tìm thấy trên UI (API: Distribution_Channel__c)
+❌ Label 'Sales Office' không tìm thấy trên UI (API: Sales_Office__c)
+❌ Label 'Sales Group' không tìm thấy trên UI (API: Sales_Group__c)
+❌ Label 'Customer Group': API mismatch → Expect = Customer_Group__c test | UI = [Customer_Group__c]
+❌ Label 'Reconcile Account' không tìm thấy trên UI (API: Reconcile_Account__c)
+❌ Label 'Limit Amount' không tìm thấy trên UI (API: Limit_Amount__c)
+❌ Label 'Credit Valid To': Kiểu dữ liệu sai → Expect = Date test | UI = Date
+❌ Label 'Last SAP Sync Time' không tìm thấy trên UI (API: Last_SAP_Sync_Time__c)
+❌ Label 'Last SAP Sync Message' không tìm thấy trên UI (API: Last_SAP_Sync_Message__c)
