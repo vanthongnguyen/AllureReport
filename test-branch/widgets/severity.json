@@ -1,1 +1,1 @@
-[]
+[{"uid":"b5dabea77f36c29","name":"checkUI_TNGBusinessAccount","time":{"start":1763353555109,"stop":1763353586066,"duration":30957},"status":"failed","severity":"critical"},{"uid":"a5ffa7d997c65fa7","name":"checkUI_BusinessAccount","time":{"start":1763353588121,"stop":1763353618613,"duration":30492},"status":"failed","severity":"critical"},{"uid":"ceaf9b8b0546e443","name":"checkHistoryTracking","time":{"start":1763353620638,"stop":1763353649014,"duration":28376},"status":"failed","severity":"normal"}]
