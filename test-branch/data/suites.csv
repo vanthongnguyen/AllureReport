@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Nov 17 10:58:48 ICT 2025","Mon Nov 17 10:59:12 ICT 2025","23745","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkHistoryTracking","checkHistoryTracking","Check history tracking"
-"failed","Mon Nov 17 10:57:45 ICT 2025","Mon Nov 17 10:58:15 ICT 2025","29435","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_TNGBusinessAccount","checkUI_TNGBusinessAccount","RecordType_TNG Business Account_Check labels theo từng section"
-"failed","Mon Nov 17 10:58:17 ICT 2025","Mon Nov 17 10:58:46 ICT 2025","29536","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_BusinessAccount","checkUI_BusinessAccount","RecordType_Business Account_Check labels theo từng section"
