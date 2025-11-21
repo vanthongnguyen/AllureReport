@@ -1,4 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Nov 17 11:29:55 ICT 2025","Mon Nov 17 11:30:26 ICT 2025","30318","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_TNGBusinessAccount","checkUI_TNGBusinessAccount","RecordType_TNG Business Account_Check labels theo từng section"
-"failed","Mon Nov 17 11:30:28 ICT 2025","Mon Nov 17 11:30:57 ICT 2025","28995","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_BusinessAccount","checkUI_BusinessAccount","RecordType_Business Account_Check labels theo từng section"
-"failed","Mon Nov 17 11:30:59 ICT 2025","Mon Nov 17 11:31:24 ICT 2025","25015","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkHistoryTracking","checkHistoryTracking","Check history tracking"
+"skipped","Fri Nov 21 10:09:08 ICT 2025","Fri Nov 21 10:09:08 ICT 2025","1","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkHistoryTracking","checkHistoryTracking","Check history tracking"
+"broken","Fri Nov 21 10:09:08 ICT 2025","Fri Nov 21 10:09:08 ICT 2025","2","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","setUp","setUp",""
+"skipped","Fri Nov 21 10:09:08 ICT 2025","Fri Nov 21 10:09:08 ICT 2025","1","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_BusinessAccount","checkUI_BusinessAccount","RecordType_Business Account_Check labels theo từng section"
+"skipped","Fri Nov 21 10:09:08 ICT 2025","Fri Nov 21 10:09:08 ICT 2025","3","Test Suite","Salesforce","tests.SFAccount","tests.SFAccount","checkUI_TNGBusinessAccount","checkUI_TNGBusinessAccount","RecordType_TNG Business Account_Check labels theo từng section"
