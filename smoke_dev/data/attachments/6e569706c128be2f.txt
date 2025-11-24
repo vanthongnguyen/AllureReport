@@ -1,0 +1,1 @@
+❌ Label 'CreatedDate': Kiểu dữ liệu sai → Expect = Lookup(User) | UI = Formula (Date)
